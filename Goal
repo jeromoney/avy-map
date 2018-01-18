@@ -1,0 +1,6 @@
+* CAIC produces an avalanche forecast composed of zones (treeline, etc) and slope direction. Add in slope angle and you have an avalanche map.
+
+* The process is to :
+  a) Read the daily HTML file
+  b) Create map from parameters
+  c) Display to user
